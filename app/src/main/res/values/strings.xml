@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string name="title1">Trivia</string>
+    <string name="TRUE">true</string>
+    <string name="FALSE">false</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="message">welcome to Trivia please turn on your internet conection to begain</string>
+    <string name="count">count</string>
+    <string name="Wrong_answer">wrong</string>
+    <string name="Correct_answer">correct</string>
+</resources>
